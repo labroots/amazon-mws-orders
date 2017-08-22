@@ -1,9 +1,9 @@
 {
-    "name": "tilleuls/amazon-mws-orders",
+    "name": "labroots/amazon-mws-orders",
     "type": "library",
     "description": "Amazon Marketplace Web Service Orders PHP Client Library",
     "keywords": ["amazon", "mws", "orders", "client", "api", "library"],
-    "homepage": "http://les-tilleuls.coop",
+    "homepage": "http://www.labroots.com",
     "licence": "Apache-2.0",
     "authors": [
         {
